@@ -1,1 +1,1 @@
-# workout_tracker_nina
+# Workout Tracker Prototype
